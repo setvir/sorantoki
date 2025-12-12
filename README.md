@@ -13,6 +13,11 @@ wasa is a gentle, non-blaming way to ask someone to repeat, slow down, or clarif
 
 ____
 
+Please consider supporting me:
+ paypal.me/ThanksForSorantoki
+
+____
+
 1\. Speaking, Writing, and Creation
 -----------------------------------
 
