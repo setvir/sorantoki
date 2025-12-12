@@ -13,11 +13,9 @@ wasa is a gentle, non-blaming way to ask someone to repeat, slow down, or clarif
 
 ____
 
+Backabuddy funding for NPO registration, hosting, domain registration and general administration:
 
-Please consider supporting me:
-
- [paypal.me/ThanksForSorantoki](https://www.paypal.com/paypalme/ThanksForSorantoki)
-
+[Fund Sorantoki Startup Costs](https://www.backabuddy.co.za/campaign/sorantoki)
 
 ____
 
