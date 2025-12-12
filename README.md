@@ -62,7 +62,7 @@ The official lexicon (word list, including coiner credits) is licensed under:
 ###### Attribution Requirements:
 
 -   Give appropriate credit to Sorantoki
--   Link back to [sorantoki.org](https://sorantoki.org/)
+-   Link back here
 -   License your derivatives under CC-BY 4.0
 
 Restriction: The canonical lexicon itself may not be sold or placed behind a paywall. It must remain freely accessible.
