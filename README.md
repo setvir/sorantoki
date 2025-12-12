@@ -50,7 +50,11 @@ The name "Sorantoki" and the official logo are unregistered trademarks (™) of 
 You may use them only to refer to the language itself or to official resources.
 
 In Short
+
 ✅ Use the language forever, for free, for anything.
+
 ✅ Create and sell learning materials based on the grammar/lexicon with attribution and same license.
+
 ❌ Never sell or paywall the canonical grammar PDF or lexicon themselves.
+
 ❌ Never remove credits or claim Sorantoki as your own creation.
