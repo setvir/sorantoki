@@ -28,6 +28,8 @@ Backabuddy funding for NPO registration, hosting, domain registration and genera
 ____
 
 [Facebook Group](https://www.facebook.com/groups/1160745382941047)
+
+[r/sorantoki](https://www.reddit.com/r/sorantoki/)
 ____
 
 1\. Speaking, Writing, and Creation
