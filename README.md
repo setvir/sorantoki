@@ -17,7 +17,7 @@ ____
 
 #Governance 
 
-Currently in Bootstrap Phase, see [governance](https://github.com/setvir/sorantoki/governance)
+Currently in Bootstrap Phase, see [governance](https://github.com/setvir/sorantoki/tree/main/governance))
 ____
 
 #Github Discussions
