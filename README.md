@@ -1,3 +1,7 @@
+
+<img src="images/sorantoki-flag.png" alt="Sorantoki flag" width="100%">
+
+
 # Sorantoki (lit. sun/day talk)
 Sorantoki is a simple, clear, and friendly auxiliary language designed to make communication easy for everyone. It sits in the middle of the auxlang spectrum: more regular and logical than natural languages, but more natural and intuitive than highly engineered or philosophical languages. Its goal is not perfection on paper, but ease of learning and ease of use in real conversations.
 
