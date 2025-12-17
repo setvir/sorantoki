@@ -152,9 +152,8 @@ Backabuddy funding for NPO registration, hosting, domain registration and genera
 
 [Fund Sorantoki Startup Costs](https://www.backabuddy.co.za/campaign/sorantoki)
 
-____
 
-# Thank me (the creator personally) for doing this
+## Thank me (the creator personally) for doing this
 [paypal.me](https://www.paypal.com/paypalme/sorantoki)
 
 [ko-fi](https://ko-fi.com/serontoki)
