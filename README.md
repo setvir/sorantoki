@@ -2,7 +2,7 @@
 <center><img src="images/sorantoki2.png" alt="Sorantoki flag" width="60%"></center>
 
 
-# Sorantoki (lit. sun/day talk)
+# Sorantoki (lit. sun speak)
 
 Sorantoki is a deliberately minimal auxiliary language and governance framework designed to explore how languages can be made **learnable, inclusive, and resilient over time**.
 
