@@ -104,7 +104,7 @@ This is a language being grown carefully, not rapidly.
 At this stage, the most valuable contributions are:
 
 * Reading and testing the language
-* Logging points of communicative friction
+* [Logging points of communicative friction](https://github.com/setvir/sorantoki/discussions/categories/friction-reports)
 * Writing short example texts
 * Reviewing governance assumptions
 
