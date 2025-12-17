@@ -135,7 +135,8 @@ Backabuddy funding for Sorantoki legal registration (Dutch Stichting), hosting, 
 [Fund Sorantoki Startup Costs](https://www.backabuddy.co.za/campaign/sorantoki)
 
 
-## Thank me (the creator personally) for doing this
+## Thank me (the creator personally) for the work
+
 [paypal.me](https://www.paypal.com/paypalme/sorantoki)
 
 [ko-fi](https://ko-fi.com/serontoki)
