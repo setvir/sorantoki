@@ -130,7 +130,7 @@ ____
 ____
 
 # Funding Serontoki's Vision
-Backabuddy funding for NPO registration, hosting, domain registration and general administration:
+Backabuddy funding for Sorantoki legal registration (Dutch Stichting), hosting, domain registration and general administration:
 
 [Fund Sorantoki Startup Costs](https://www.backabuddy.co.za/campaign/sorantoki)
 
