@@ -164,7 +164,7 @@ The official grammar reference and all explanatory materials are licensed under:
 
 ###### You may:
 
--   Create and sell derivative learning materials, courses, books, or apps based on the grammar
+-   Create and sell derivative learning materials, courses, books, or apps based on the grammar & leicon
 -   Share and adapt the content for any purpose
 
 ###### Attribution Requirements:
@@ -174,7 +174,7 @@ The official grammar reference and all explanatory materials are licensed under:
 -   License your derivatives under CC-BY-SA 4.0
 -   Clearly indicate your work is not the official version
 
-Restriction: The canonical grammar PDF itself may not be sold or placed behind a paywall. It must remain freely accessible.
+Restriction: The canonical grammar may not be sold or placed behind a paywall. It must remain freely accessible.
 
 3\. Official Lexicon
 --------------------
@@ -208,5 +208,5 @@ In Short
 
 -   ✅ Use the language forever, for free, for anything.
 -   ✅ Create and sell learning materials based on the grammar/lexicon with attribution and same license.
--   ❌ Never sell or paywall the canonical grammar PDF or lexicon themselves.
+-   ❌ Never sell or paywall the canonical grammar or lexicon.
 -   ❌ Never remove credits or claim Sorantoki as your own creation.
