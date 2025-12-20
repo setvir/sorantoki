@@ -92,6 +92,8 @@ Sorantoki is designed so that **no single person permanently owns the language**
 > Sorantoki is currently a personal research project of Lionel Coombes.  
 > No legal entity exists yet; all assets are held in trust for the community.  
 > Governance procedures are published for transparency only and create no legally binding obligations until an NPC (or equivalent) is formed.
+> Participation, contribution, or reliance on these documents is voluntary and at the participant’s own discretion.
+
 * Early public release
 * Core grammar and lexicon established
 * Bootstrap governance phase active (see [governance](https://github.com/setvir/sorantoki/tree/main/governance) for details.)
@@ -173,7 +175,7 @@ You may:
 
 **Conditions:**
 1. Give appropriate credit:  
-   `Sorantoki Grammar © 20XX Sorantoki Project, licensed under CC-BY-SA 4.0`  
+   `Sorantoki Grammar © 2025 Sorantoki Project, licensed under CC-BY-SA 4.0`  
    (replace 20XX with the year shown in the file header).  
 2. Provide a link to [https://sorantoki.org](https://github.com/sorantoki/) and to this licence.  
 3. License your derivative under the same CC-BY-SA 4.0 licence.  
