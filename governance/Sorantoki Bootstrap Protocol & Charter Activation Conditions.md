@@ -1,3 +1,8 @@
+**Legal status**  
+Sorantoki is currently a personal research project of Lionel Coombes.  
+No legal entity exists yet; all assets are held in trust for the community.  
+Governance procedures are published for transparency only and create no legally binding obligations until an NPC (or equivalent) is formed.
+
 # **Sorantoki Bootstrap Protocol & Charter Activation Conditions**
 *Interim Governance Statement – Version 0.9*
 
