@@ -996,60 +996,74 @@ For more on when to use *es* for clarity, see section 8A.
 
 ## Licensing
 
-### 1. Speaking, Writing, and Creation
-
-Speaking, writing, singing, filming, or creating in Sorantoki is completely free for any purpose (personal, artistic, or commercial). No permission or attribution is ever required.
-
-License: CC0 1.0 Universal (Public Domain)
-
-### 2. Grammar Reference & Explanatory Materials
-
-The official grammar reference and all explanatory materials are licensed under:
-
-**Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)**
-
-**You may:**
-- Create and sell derivative learning materials, courses, books, or apps based on the grammar
-- Share and adapt the content for any purpose
-
-**Attribution Requirements:**
-- Give appropriate credit to Sorantoki
-- Link here: https://github.com/setvir/sorantoki-resources
-- License your derivatives under CC-BY-SA 4.0
-- Clearly indicate your work is not the official version
-
-**Restriction:** The canonical grammar PDF itself may not be sold or placed behind a paywall. It must remain freely accessible.
-
-### 3. Official Lexicon
-
-The official lexicon (word list, including coiner credits) is licensed under:
-
-**Creative Commons Attribution 4.0 International (CC-BY 4.0)**
-
-**You may:**
-- Create and sell derivative works: apps, flashcards, annotated dictionaries, teaching tools
-- Share and adapt the lexicon for any purpose
-
-**Attribution Requirements:**
-- Give appropriate credit to Sorantoki
-- Link here: https://github.com/setvir/sorantoki-resources
-- License your derivatives under CC-BY 4.0
-
-**Restriction:** The canonical lexicon itself may not be sold or placed behind a paywall. It must remain freely accessible.
-
-### 4. Trademarks
-
-The name "Sorantoki" and the official logo are unregistered trademarks (™) of the Sorantoki project.
-
-You may use them only to refer to the language itself or to official resources.
-
-### In Short
-
-- ✅ Use the language forever, for free, for anything.
-- ✅ Create and sell learning materials based on the grammar/lexicon with attribution and same license.
-- ❌ Never sell or paywall the canonical grammar PDF or lexicon themselves.
-- ❌ Never remove credits or claim Sorantoki as your own creation.
+By using, copying, or redistributing any Sorantoki material you agree to the terms below.
 
 ---
+# Sorantoki Licensing & Trademark Notice
+
+## 1. Speaking, Writing & Creation (the language itself)
+**Scope:** all individual words (roots), affixes, grammar rules, example sentences, phonotactics, and any other linguistic facts that you need to speak, write, sing, film, or otherwise create in Sorantoki.  
+**Licence:** CC0 1.0 Universal – public domain dedication.  
+No attribution or permission is ever required for any purpose (personal, artistic, educational, or commercial).  
+To the extent that moral rights cannot be waived under applicable law, the Creator irrevocably licences such rights on a perpetual, worldwide, royalty-free basis to the maximum extent permissible.
+
+---
+
+## 2. Grammar Reference & Explanatory Materials
+ 
+**Licence:** Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0).  
+You may:
+- create and sell derivative learning materials, courses, books, or apps;  
+- share and adapt the content for any purpose.  
+
+**Conditions:**
+1. Give appropriate credit:  
+   `Sorantoki Grammar © 2025 Sorantoki Project, licensed under CC-BY-SA 4.0`  
+   (replace 20XX with the year shown in the file header).  
+2. Provide a link to [https://sorantoki.org](https://github.com/sorantoki/) and to this licence.  
+3. License your derivative under the same CC-BY-SA 4.0 licence.  
+4. Clearly indicate that your work is unofficial.  
+
+**Additional restriction on the *canonical* copy:**  
+The official HTML/Markdown/PDF files hosted at https://github.com/sorantoki/sorantoki must remain freely accessible and may not be placed behind a pay-wall. This restriction does **not** apply to derivative works you create.
+
+---
+
+## 3. Official Lexicon
+ 
+**Licence:** Creative Commons Attribution 4.0 International (CC-BY 4.0).  
+You may:
+- create and sell derivative works (flash-card apps, annotated dictionaries, teaching tools);  
+- share and adapt the lexicon for any purpose.  
+
+**Conditions:**
+1. Give appropriate credit:  
+   `Sorantoki Lexicon © 20XX Sorantoki Project, licensed under CC-BY 4.0`  
+   (replace 20XX with the year shown in the file header).  
+2. Provide a link to [https://sorantoki.org](https://github.com/sorantoki/) and to this licence.  
+3. License your derivative under CC-BY 4.0 (or later).  
+
+**Additional restriction on the *canonical* copy:**  
+The official files hosted at https://github.com/sorantoki/ must remain freely accessible and may not be placed behind a pay-wall. This restriction does **not** apply to derivative works you create.
+
+---
+
+## 4. Governance Documents
+
+**Licence:** CC0 1.0 Universal – public domain dedication.  
+No attribution is legally required, but citing the source is appreciated.
+
+---
+
+## 5. Trademarks
+The word **“Sorantoki”** and the official Sorantoki logo are unregistered trademarks ™ of the Sorantoki Project.  
+You may use them **only** to refer to the language itself or to official resources.  
+Fair-use for descriptive titles (e.g., “Learning Sorantoki”) is allowed, provided the work is primarily about the language and does not falsely imply official endorsement.
+
+---
+
+## 6. No Warranties
+All materials are provided “as-is” without warranty of any kind, express or implied, including but not limited to the accuracy of lexical definitions or grammatical descriptions.
+
 
 **Editorial Note:** All corrections from the October 26, 2023 editorial review have been applied to this version, including sequential section numbering, standardized formatting, clarified translations, aligned tables, and consistency improvements throughout.
