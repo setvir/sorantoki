@@ -1040,8 +1040,7 @@ You may:
 1. Give appropriate credit:  
    `Sorantoki Lexicon © 20XX Sorantoki Project, licensed under CC-BY 4.0`  
    (replace 20XX with the year shown in the file header).  
-2. Provide a link to [https://sorantoki.org](https://github.com/sorantoki/) and to this licence.  
-3. License your derivative under CC-BY 4.0 (or later).  
+2. License your derivative under CC-BY 4.0 (or later).  
 
 **Additional restriction on the *canonical* copy:**  
 The official files hosted at https://github.com/sorantoki/ must remain freely accessible and may not be placed behind a pay-wall. This restriction does **not** apply to derivative works you create.
