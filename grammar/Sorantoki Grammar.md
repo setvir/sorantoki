@@ -1020,9 +1020,8 @@ You may:
 1. Give appropriate credit:  
    `Sorantoki Grammar © 2025 Sorantoki Project, licensed under CC-BY-SA 4.0`  
    (replace 20XX with the year shown in the file header).  
-2. Provide a link to [https://sorantoki.org](https://github.com/sorantoki/) and to this licence.  
-3. License your derivative under the same CC-BY-SA 4.0 licence.  
-4. Clearly indicate that your work is unofficial.  
+2. License your derivative under the same CC-BY-SA 4.0 licence.  
+3. Clearly indicate that your work is unofficial.  
 
 **Additional restriction on the *canonical* copy:**  
 The official HTML/Markdown/PDF files hosted at https://github.com/sorantoki/sorantoki must remain freely accessible and may not be placed behind a pay-wall. This restriction does **not** apply to derivative works you create.
