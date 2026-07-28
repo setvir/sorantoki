@@ -1064,4 +1064,4 @@ Fair-use for descriptive titles (e.g., “Learning Sorantoki”) is allowed, pro
 All materials are provided “as-is” without warranty of any kind, express or implied, including but not limited to the accuracy of lexical definitions or grammatical descriptions.
 
 
-**Editorial Note:** All corrections from the October 26, 2023 editorial review have been applied to this version, including sequential section numbering, standardized formatting, clarified translations, aligned tables, and consistency improvements throughout.
+**Editorial Note:** All corrections from the editorial reviews are applied to this version, including sequential section numbering, standardized formatting, clarified translations, aligned tables, and consistency improvements throughout.
